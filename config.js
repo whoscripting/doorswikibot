@@ -1,5 +1,5 @@
 // --- WIKI CONFIGURATION ---
-const BOT_NAME = "Wiki Guy"; 
+const BOT_NAME = "fih"; 
 
 const WIKIS = {
     "en": {
