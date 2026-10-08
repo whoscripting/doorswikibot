@@ -30,7 +30,7 @@ const DEFAULT_WIKI = "en";
 // Enable or disable slash commands. Disabled commands are not registered with Discord.
 const COMMANDS = {
     speedrun: false,
-    contribs: true,
+    contribs: false,
     wiki: true,
     parse: true,
     user: true,
